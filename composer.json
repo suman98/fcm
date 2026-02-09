@@ -1,5 +1,5 @@
 {
-    "name": "elitexp/fcm",
+    "name": "suman98/fcm",
     "description": "Laravel / Lumen package for Firebase Cloud Messaging forked from brozot ",
     "keywords": ["laravel", "lumen", "firebase", "notification", "push", "fcm", "firebase cloud messaging"],
     "type": "library",
